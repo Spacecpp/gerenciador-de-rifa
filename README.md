@@ -3,4 +3,4 @@ Esta é uma pequena ferramenta que fiz com o objetivo de gerenciar uma rifa, ten
 
 ![print](print.png)
 
-Para fazer este programa eu utilizei minha biblioteca pessoal Alegrinho. Ainda não disponibilizei a mesma publicamente, então caso tenha interesse na ferramenta baixe a versão pré-compilada.
+Para criar este programa eu utilizei minha biblioteca pessoal Alegrinho. Ainda não disponibilizei a mesma publicamente, então caso tenha interesse na ferramenta baixe a versão pré-compilada na aba releases.
