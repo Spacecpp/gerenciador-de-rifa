@@ -1,0 +1,6 @@
+#ifndef WINDOW_LISTS_H
+#define WINDOW_LISTS_H
+
+namespace BUTTON { enum { NONE, EXIT, SELECT_NUMBER, PICK_NUMBER, REMOVE_NUMBER, SAVE, COUNT }; }
+
+#endif
